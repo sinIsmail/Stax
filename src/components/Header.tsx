@@ -27,7 +27,7 @@ function Header() {
             'is-active': pathname === '/coins'
           })}>All coins</Link>
       </nav>
-    </heade
+    </header>
   )
 }
 
