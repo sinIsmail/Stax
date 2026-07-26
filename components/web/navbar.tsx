@@ -22,6 +22,7 @@ import logo from "../../public/logo.png"
 import Image from "next/image"
 import { buttonVariants } from "../ui/button"
 import { ThemeToggle } from "./themeToggle"
+
 const components: { title: string; href: string; description: string }[] = [
   {
     title: "Alert Dialog",
